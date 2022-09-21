@@ -3,7 +3,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🔮 &nbsp; 19y/o Student doing my degree in Computer Science
-- 🚩 &nbsp; Intersted in Cyber Security & Programming 
+- 🚩 &nbsp; Interested in Cyber Security & Programming 
 - ⚡ &nbsp; I bring design to reality
 
 <br>📫 **How to reach me feb.in1434@gmail.com**
