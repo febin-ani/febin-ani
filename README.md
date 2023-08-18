@@ -2,7 +2,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🔮 &nbsp; 19y/o Student doing my degree in Computer Science
+- 🔮 &nbsp; 20y/o Student doing my degree in Computer Science
 - 🚩 &nbsp; Interested in Cyber Security & Programming 
 - ⚡ &nbsp; I bring design to reality
 
@@ -26,9 +26,6 @@
     </a> 
     <a href="https://www.java.com" target="_blank"> 
         <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     </a>
 </p>
 
@@ -61,11 +58,9 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
         <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
     </a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
-        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> 
-    </a>
     <a href="https://www.blender.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+    </a>
 </p>
 
 
@@ -76,10 +71,10 @@
 <a href="https://www.instagram.com/feb.1n" target="_blank">
   <img align="center" alt="Febin | Instagram" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/feb1n02" target="_blank">
+<a href="https://twitter.com/174pov" target="_blank">
   <img align="center" alt="Febin | Twitter" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href=""https://linkedin.com/in/febin022"" target="_blank">
+<a href="https://linkedin.com/in/febin022" target="_blank">
   <img align="center" alt="Febin | Linkedin" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a> &nbsp;&nbsp;
 <p>
