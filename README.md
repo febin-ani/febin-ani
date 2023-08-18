@@ -66,7 +66,7 @@
 
 <div align="center">
   <h3><b>Can Connect With Me On</b></h3>
-  </div>
+</div>
 <p align="center">
 <a href="https://www.instagram.com/feb.1n" target="_blank">
   <img align="center" alt="Febin | Instagram" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -81,6 +81,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/febin-ani/febin-ani/blob/main/assets/github-contribution-grid-snake.svg" alt="snake"></center>
+      <img src="https://github.com/febin-ani/febin-ani/blob/main/assets/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
