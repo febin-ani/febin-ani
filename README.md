@@ -58,6 +58,12 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
         <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
     </a>
+    <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> 
+        <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"> 
+    </a>
+    <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
+    </a>
     <a href="https://www.blender.org/" target="_blank"> 
         <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
     </a>
