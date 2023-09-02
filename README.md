@@ -9,7 +9,9 @@
 <br>📫 **How to reach me feb.in1434@gmail.com**
 
 ### **TryHackMe**
-<script src="https://tryhackme.com/badge/1275426"></script>
+<a href="https://tryhackme.com/p/feb.in" target="_blank">
+    <img alt="TryHackMe" src="https://tryhackme.com/badge/1275426">
+</a>
 
 ### **Skills**
 ### 👉Programming Languages
