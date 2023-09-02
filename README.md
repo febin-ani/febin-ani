@@ -10,7 +10,7 @@
 
 ### **TryHackMe**
 <a href="https://tryhackme.com/p/feb.in" target="_blank">
-    <img alt="TryHackMe" src="https://tryhackme.com/badge/1275426">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/feb.in.png" alt="TryHackMe">
 </a>
 
 ### **Skills**
