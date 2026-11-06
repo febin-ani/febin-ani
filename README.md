@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave — tagline only, no name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Offensive%20Security%20%7C%20Red%20Team%20%7C%20CTF%20Player&fontSize=28&fontColor=00d4ff&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Febin%20Ani&fontSize=70&fontColor=00d4ff&fontAlignY=50&animation=fadeIn" />
 
 </div>
 
