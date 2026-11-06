@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Wave — tagline only, no name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Febin%20Ani&fontSize=70&fontColor=00d4ff&fontAlignY=50&animation=fadeIn" />
+<!-- Custom decode-per-character animation header -->
+<img width="100%" src="assets/header-decode.svg" alt="Febin Ani"/>
 
 </div>
 
