@@ -3,15 +3,6 @@
 <!-- Animated Header Wave — tagline only, no name -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Offensive%20Security%20%7C%20Red%20Team%20%7C%20CTF%20Player&fontSize=28&fontColor=00d4ff&fontAlignY=55&animation=fadeIn" />
 
-<br/>
-
-<!-- Cert Badges -->
-[![OSCP](https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/)
-[![CRTP](https://img.shields.io/badge/CRTP-Certified-orange?style=for-the-badge&logoColor=white)](https://www.alteredsecurity.com/)
-[![eWPTX](https://img.shields.io/badge/eWPTX-Certified-blue?style=for-the-badge&logoColor=white)](https://elearnsecurity.com/)
-[![CEH](https://img.shields.io/badge/CEH-Certified-green?style=for-the-badge&logoColor=white)](https://www.eccouncil.org/)
-[![eJPT](https://img.shields.io/badge/eJPT-Certified-purple?style=for-the-badge&logoColor=white)](https://elearnsecurity.com/)
-
 </div>
 
 ---
@@ -24,6 +15,7 @@ class Febin:
         self.name        = "Febin Ani"
         self.role        = "Offensive Security Engineer"
         self.location    = "India"
+        self.website     = "https://www.febinani.in"
         self.interests   = ["Hacking", "Football", "Learning Tech"]
         self.certs       = ["OSCP", "CRTP", "eWPTX", "CEH", "eJPT"]
         self.focus       = ["Red Teaming", "Web App Pentesting",
@@ -49,7 +41,6 @@ me.say_hi()
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-CC0000?style=for-the-badge&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=for-the-badge&logoColor=white)
 
 ### Languages & Scripting
@@ -84,9 +75,9 @@ me.say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/febin-ani/febin-ani/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/febin-ani/febin-ani/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/febin-ani/febin-ani/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febin-ani/febin-ani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/febin-ani/febin-ani/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/febin-ani/febin-ani/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
@@ -96,6 +87,7 @@ me.say_hi()
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-febinani.in-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.febinani.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/febin-ani)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/febin-ani)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/febin-ani)
@@ -108,8 +100,6 @@ me.say_hi()
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux Motto
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+*"The quieter you become, the more you are able to hear."*
 
 </div>
