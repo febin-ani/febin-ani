@@ -16,12 +16,10 @@ class Febin:
         self.role        = "Offensive Security Engineer"
         self.location    = "India"
         self.website     = "https://www.febinani.in"
-        self.interests   = ["Hacking", "Football", "Learning Tech"]
-        self.certs       = ["OSCP", "CRTP", "eWPTX", "CEH", "eJPT"]
+        self.interests   = ["Hacking", "Designing", "Cinematography"]
         self.focus       = ["Red Teaming", "Web App Pentesting",
                             "AD Attacks", "CTF Challenges",
                             "Exploit Development"]
-        self.motto       = "Hack the Planet. Break to Build."
 
     def say_hi(self):
         print(f"Hey! I'm {self.name}. Let's break some stuff!")
@@ -63,9 +61,7 @@ me.say_hi()
 
 ## CTF & Research
 
-- **CVE Research** — Discovering and reporting real-world vulnerabilities
-- **CTF Competitions** — Active participant in Hack The Box, TryHackMe & more
-- **Exploit Development** — Custom exploits, PoC scripting & weaponization
+- **CTF Competitions** — Active participant in Offline/Online CTF, TryHackMe & more
 - **Red Team Ops** — Full attack lifecycle from recon to post-exploitation
 - **Active Directory** — Kerberoasting, Pass-the-Hash, DCSync & more
 
